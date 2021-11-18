@@ -1,0 +1,16 @@
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\bin\Debug\net5.0\CriandoJogoDaVelha.exe
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\bin\Debug\net5.0\CriandoJogoDaVelha.deps.json
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\bin\Debug\net5.0\CriandoJogoDaVelha.runtimeconfig.json
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\bin\Debug\net5.0\CriandoJogoDaVelha.runtimeconfig.dev.json
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\bin\Debug\net5.0\CriandoJogoDaVelha.dll
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\bin\Debug\net5.0\ref\CriandoJogoDaVelha.dll
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\bin\Debug\net5.0\CriandoJogoDaVelha.pdb
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\obj\Debug\net5.0\CriandoJogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\obj\Debug\net5.0\CriandoJogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\obj\Debug\net5.0\CriandoJogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\obj\Debug\net5.0\CriandoJogoDaVelha.AssemblyInfo.cs
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\obj\Debug\net5.0\CriandoJogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\obj\Debug\net5.0\CriandoJogoDaVelha.dll
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\obj\Debug\net5.0\ref\CriandoJogoDaVelha.dll
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\obj\Debug\net5.0\CriandoJogoDaVelha.pdb
+C:\Users\raphael.silva\source\repos\ArraysMultidimensionais\CriandoJogoDaVelha\obj\Debug\net5.0\CriandoJogoDaVelha.genruntimeconfig.cache

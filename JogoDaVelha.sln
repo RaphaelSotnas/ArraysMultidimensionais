@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysMultidimensionais", "ArraysMultidimensionais\ArraysMultidimensionais.csproj", "{9B72C93F-CD3D-449A-A67F-AEB759FD70B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{A1975B28-7814-45D7-A0BE-75867CAC0B48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysMultidimensionaisParte2", "..\..\..\Desktop\Projetos Pessoais\ArraysMultidimensionais\ArraysMultidimensionais\ArraysMultidimensionaisParte2\ArraysMultidimensionaisParte2.csproj", "{D8484604-4CA9-4F02-AA10-26757A3B6E29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArraysPart2", "ArraysPart2", "{4B5265EB-61B8-44B1-A9BE-D52A18F38718}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArraysPart3", "ArraysPart3", "{7AF86C9A-996A-46BD-BCEE-E5AE219C11BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoDaVelha", "JogoDaVelha\JogoDaVelha.csproj", "{2FFFD161-F8B2-4D55-B6E4-552B00E34557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B72C93F-CD3D-449A-A67F-AEB759FD70B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B72C93F-CD3D-449A-A67F-AEB759FD70B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B72C93F-CD3D-449A-A67F-AEB759FD70B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B72C93F-CD3D-449A-A67F-AEB759FD70B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8484604-4CA9-4F02-AA10-26757A3B6E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8484604-4CA9-4F02-AA10-26757A3B6E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8484604-4CA9-4F02-AA10-26757A3B6E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8484604-4CA9-4F02-AA10-26757A3B6E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FFFD161-F8B2-4D55-B6E4-552B00E34557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFFD161-F8B2-4D55-B6E4-552B00E34557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFFD161-F8B2-4D55-B6E4-552B00E34557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFFD161-F8B2-4D55-B6E4-552B00E34557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9B72C93F-CD3D-449A-A67F-AEB759FD70B7} = {A1975B28-7814-45D7-A0BE-75867CAC0B48}
+		{D8484604-4CA9-4F02-AA10-26757A3B6E29} = {4B5265EB-61B8-44B1-A9BE-D52A18F38718}
+		{2FFFD161-F8B2-4D55-B6E4-552B00E34557} = {7AF86C9A-996A-46BD-BCEE-E5AE219C11BA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE6A8F8E-3773-4463-99BD-149DC8D120E0}
+	EndGlobalSection
+EndGlobal
